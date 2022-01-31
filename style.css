@@ -525,6 +525,7 @@ body {
 
   #first-content {
     margin-left: 18px;
+    margin-top: 30px;
   }
 
   #first-content button {
@@ -536,6 +537,8 @@ body {
   }
   #second-content {
     margin-left: 18px;
+    margin-top: 50px;
+    margin-bottom: 0;
   }
   #second-content button {
     margin-left: 57px;
@@ -547,6 +550,7 @@ body {
   }
   #third-content {
     margin-left: 18px;
+    margin-top: 50px;
   }
   #third-content button {
     margin-left: 57px;
