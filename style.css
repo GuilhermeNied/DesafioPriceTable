@@ -10,7 +10,8 @@ body {
   height: 50vh;
   left: 0px;
   top: 0px;
-
+  display: flex;
+  justify-content: center;
   background: #1d539e;
 }
 #titles {
@@ -18,7 +19,6 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-left: 35%;
 
   width: 60%;
   height: 60%;
@@ -176,8 +176,8 @@ body {
   text-transform: uppercase;
 
   color: #1d539e;
-  margin-left: 22px;
-  margin-top: 120px;
+  margin-left: 28px;
+  margin-top: 98px;
 
   cursor: pointer;
 }
@@ -344,8 +344,8 @@ body {
   text-transform: uppercase;
 
   color: #fff;
-  margin-left: 22px;
-  margin-top: 68px;
+  margin-left: 28px;
+  margin-top: 47px;
 
   cursor: pointer;
 }
@@ -463,8 +463,8 @@ body {
   text-transform: uppercase;
 
   color: #1d539e;
-  margin-left: 22px;
-  margin-top: 57px;
+  margin-left: 28px;
+  margin-top: 29px;
 
   cursor: pointer;
 }
@@ -528,7 +528,7 @@ body {
   }
 
   #first-content button {
-    margin-left: 43px;
+    margin-left: 57px;
     margin-top: 90px;
     margin-bottom: 20px;
     width: 226px;
@@ -538,7 +538,7 @@ body {
     margin-left: 18px;
   }
   #second-content button {
-    margin-left: 43px;
+    margin-left: 57px;
     margin-top: 60px;
     margin-bottom: 19px;
 
@@ -549,7 +549,7 @@ body {
     margin-left: 18px;
   }
   #third-content button {
-    margin-left: 43px;
+    margin-left: 57px;
     margin-top: 30px;
     margin-bottom: 20px;
     width: 226px;
